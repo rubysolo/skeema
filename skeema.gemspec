@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{Skeema is an experiment in different methods of parsing ActiveRecord schema.rb files}
   gem.homepage      = "https://github.com/rubysolo/skeema"
 
-  gem.add_development_dependency 'pry'
+  gem.add_development_dependency 'pry-nav'
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'rspec'
 
